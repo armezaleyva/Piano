@@ -1,0 +1,23 @@
+﻿<Window x:Class="Piano.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Piano"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="358.8" Width="532.8">
+    <Grid>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="150,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="75,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="300,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="225,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="375,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="450,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="48,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="123,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="274,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="349,0,0,0"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="423,0,0,0"/>
+    </Grid>
+</Window>
