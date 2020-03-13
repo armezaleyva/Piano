@@ -7,17 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="358.8" Width="532.8">
     <Grid>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="150,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="75,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Click="Button_Click"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="300,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="225,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="375,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="450,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="48,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="123,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="274,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="349,0,0,0"/>
-        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="423,0,0,0"/>
+        <Button x:Name="btnMi" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="150,0,0,0" Click="btnMi_Click"/>
+        <Button x:Name="btnRe" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="75,0,0,0" Click="btnRe_Click"/>
+        <Button x:Name="btnDo" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Click="Button_Click"/>
+        <Button x:Name="btnSol" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="300,0,0,0" Click="btnSol_Click"/>
+        <Button x:Name="btnFa" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="225,0,0,0" Click="btnFa_Click"/>
+        <Button x:Name="btnLa" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="375,0,0,0" Click="btnLa_Click"/>
+        <Button x:Name="btnSi" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="420" Background="White" Margin="450,0,0,0" Click="btnSi_Click"/>
+        <Button x:Name="btnDoSos" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="48,0,0,0" Click="btnDoSos_Click"/>
+        <Button x:Name="btnReSos" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="123,0,0,0" Click="btnReSos_Click"/>
+        <Button x:Name="btnFaSos" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="274,0,0,0" Click="btnFaSos_Click"/>
+        <Button x:Name="btnSolSos" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="349,0,0,0" Click="btnSolSos_Click"/>
+        <Button x:Name="btnLaSos" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Height="206" Background="Black" Margin="423,0,0,0" Click="btnLaSos_Click"/>
     </Grid>
 </Window>
